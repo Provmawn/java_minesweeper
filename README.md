@@ -1,6 +1,6 @@
 # Minesweeper in Java
 
-This is my final project for a introductory java class.
+This is my final project for an introductory java class.
 
 ## How to install ubuntu/debian
 First,
