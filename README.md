@@ -2,7 +2,13 @@
 
 This is my final project for an introductory java class.
 
-## How to install ubuntu/debian
+## Controls
+
+Movement - `WASD`
+Flag - `SHIFT`
+Reveal - `SPACE`
+
+### How to install ubuntu/debian
 First,
 ```
 sudo apt-get update
