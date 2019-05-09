@@ -4,9 +4,11 @@ This is my final project for an introductory java class.
 
 ## Controls
 
-Movement - `WASD`
-Flag - `SHIFT`
-Reveal - `SPACE`
+Movement - `WASD` 
+
+Flag - `SHIFT` 
+
+Reveal - `SPACE` 
 
 ### How to install ubuntu/debian
 First,
